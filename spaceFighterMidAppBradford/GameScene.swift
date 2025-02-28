@@ -13,6 +13,7 @@ class GameScene: SKScene {
     
     override func didMove(to view: SKView) {
         player = self.childNode(withName: "player") as! SKSpriteNode
+        //Justin is an amazing and super Rad person
     }
     
     
